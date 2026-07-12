@@ -1,4 +1,5 @@
 # XAU Swing Trading Lab — XAUUSD Trading Journal & Behavioral Analysis
+## Research Journal, Strategy Development & Behavioral Analysis
 
 A structured backtest and self-audit of a discretionary swing-trading system on Gold (XAUUSD), built to answer one question with data instead of gut feeling: **when I lose, is it the market, or is it me?**
 
