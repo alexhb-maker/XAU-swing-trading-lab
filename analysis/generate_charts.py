@@ -29,11 +29,11 @@ plt.rcParams.update({
     "legend.fontsize": 10,
 })
 
-BLUE = "#4C72B0"
-ORANGE = "#DD8452"
-GREEN = "#55A868"
-RED = "#C44E52"
-GRAY = "#8C8C8C"
+BLUE = "#2563EB"
+ORANGE = "#F97316"
+GREEN = "#00C853"
+RED = "#FF1744"
+GRAY = "#6B7280"
 
 df = pd.read_csv(DATA, parse_dates=["date_start", "date_end"])
 executed = df[df["outcome"] != "No entry"].copy()
