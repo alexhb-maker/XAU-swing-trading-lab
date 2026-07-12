@@ -1,4 +1,4 @@
-# Backtest Swing 2026 — XAUUSD Trading Journal & Behavioral Analysis
+# XAU Swing Trading Lab — XAUUSD Trading Journal & Behavioral Analysis
 
 A structured backtest and self-audit of a discretionary swing-trading system on Gold (XAUUSD), built to answer one question with data instead of gut feeling: **when I lose, is it the market, or is it me?**
 
@@ -33,7 +33,7 @@ Full breakdown, including the compliance-vs-outcome analysis and all sample-size
 ## Repository structure
 
 ```
-backtest-swing-2026/
+XAU-swing-trading-lab/
 ├── README.md                          this file
 ├── LICENSE
 ├── requirements.txt
@@ -68,8 +68,8 @@ backtest-swing-2026/
 ## Reproducing the analysis
 
 ```bash
-git clone https://github.com/alexhb-maker/backtest-swing-2026.git
-cd backtest-swing-2026
+git clone https://github.com/alexhb-maker/XAU-swing-trading-lab.git
+cd XAU-swing-trading-lab
 pip install -r requirements.txt
 python analysis/generate_charts.py
 ```
