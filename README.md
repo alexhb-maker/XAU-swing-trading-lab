@@ -8,6 +8,17 @@ This repository documents a custom TradingView indicator, a 17-trade paper-tradi
 
 Trading is, at its core, a repeated decision-making process under uncertainty with real risk-management and P&L accountability — the same discipline that underlies variance analysis, control testing, and process auditing in a finance function. This project applies that lens to my own execution: structured logging, root-cause classification of losses, and a revised operating procedure validated (and reviewed) against the data rather than assumption. It was originally built to support a disciplined return to a funded trading account; it turned into a small case study in treating personal decision data with the same rigor as any other dataset.
 
+## My Contribution
+
+I am the author of the entire trading framework analysed in this repository, including:
+
+- The TradingView indicator, designed and programmed by me in Pine Script v6.
+- The strategy logic and confluence model used for trade selection.
+- The trade journal and behavioral classification framework.
+- The Python-based statistical analysis used to review the results.
+
+This project therefore combines indicator development, process design, data collection and quantitative analysis within a single end-to-end workflow.
+
 ## Key findings
 
 **1. The single biggest source of losses wasn't market analysis — it was what happened after a loss.**
