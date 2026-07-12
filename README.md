@@ -15,7 +15,7 @@ My background spans software development, psychology and finance, which naturall
 
 I entered the trading world in 2019. What began as curiosity became a long-term pursuit that ended up bringing together many of the interests that have shaped my professional and academic journey: systems, human behaviour, uncertainty, statistics and performance.
 
-For me, trading has never been only about markets or money. It is one of the few environments where every decision is exposed to immediate feedback and where excuses have very little value. The market does not care about intentions, confidence or opinions; it only reveals the consequences of the decisions made.
+For me, trading has never been only about markets or money. It is one of the few environments where every decision is exposed to immediate feedback and where excuses have very little value. The market doesn't care about intentions, confidence or opinions; it only reveals the consequences of the decisions made.
 
 Over time, I became less interested in forecasting price movements and more interested in understanding the decision-maker behind them. In many ways, trading became a continuous exercise in auditing my own judgement, discipline and behaviour under uncertainty.
 
